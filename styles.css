@@ -63,7 +63,7 @@ section>p>a{
 
 /* address styles */
 .address{
-    background-color: #FFF8F3;
+    background-color: #F9D4D4;
     text-align: center;
     height: 482px;
     padding-top: 220px;
@@ -149,4 +149,34 @@ section>p>a{
 }
 .portfolio .portfolio-pictures .portfolio-pictures-column img{
     margin: 5px;
+}
+
+
+/* newsteller styles */
+.newsteller{
+    text-align: center;
+    margin-top: 100px;
+    background-color: #F9D4D4;
+    padding: 150px 0;
+}
+.email,.subscribe{
+    height: 40px;
+    border: none;
+    gap: 0px;
+}
+.email{
+    padding-left: 20px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.subscribe{
+    font-size: 15px;
+    color: white;
+    background-color:#FF0000 ;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-top: 10px;
+}
+.newsteller-heading{
+    font-size: 48px;
 }
