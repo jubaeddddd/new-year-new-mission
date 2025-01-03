@@ -1,5 +1,5 @@
 /* for all styles */
-header,body{
+header,main{
     max-width: 1320px;
     margin: 0 auto;
 }
@@ -179,4 +179,24 @@ section>p>a{
 }
 .newsteller-heading{
     font-size: 48px;
+}
+
+/* footer styles */
+footer{
+    padding: 150px;
+    color: white;
+    background-color: black;
+    margin-top: 100px;
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+}
+.socials{
+    text-align: center;
+    padding: 30px 0;
+}
+.foot{
+    display: flex;
+    justify-content: space-between;
 }
