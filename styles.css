@@ -1,0 +1,24 @@
+/* for all styles */
+header,body{
+    max-width: 1320px;
+    margin: 0 auto;
+}
+/* header styles */
+.header{
+    background-image: url(./Banner\ Image.png);
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.header-div{
+    color: white;
+    justify-content: center;
+    text-align: center;
+    padding-top: 150px;
+    margin-top: 50px;
+}
+.header-title{
+    font-size: 32px;
+}
+.header-title-description{
+    font-size: 72px;
+}
