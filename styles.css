@@ -118,9 +118,6 @@ section>p>a{
     margin-top: 140px;
     text-align: center;
     border-radius: 15px;
-    background-image:url(./Rectangle\ 2.png);
-    background-position: bottom;
-    background-repeat: no-repeat;
 }
 .holiday-hthree{
     font-size: 24px;
@@ -135,12 +132,21 @@ section>p>a{
     color: #203246;
     font-size: 18px;
 }
-.images{
-    
+
+
+/* portfolio styles */
+.portfolio-hthree{
+    color: red;
+    font-size: 24px;
 }
-.first-image{
-    
+.portfolio-heading{
+    font-size: 35px;
+    font-weight: 700;
 }
-.second-image{
-   
+.portfolio-descrip{
+    font-size: 17px;
+    color: #203246;
+}
+.portfolio .portfolio-pictures .portfolio-pictures-column img{
+    margin: 5px;
 }
